@@ -13,7 +13,7 @@ I’m an SQA & Full-stack Web developer. I am passionate about learning and shar
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamin622&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin622&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alamin622)  
