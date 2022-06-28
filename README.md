@@ -15,7 +15,7 @@ I’m an SQA & Full-stack Web developer. I am passionate about learning and shar
 
 <p align = "center">
   <a href="https://github.com/alamin622/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=alamin622&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=alamin622&theme=gruvbox&hide_border=false">
   </a>
 </p>
 
