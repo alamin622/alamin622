@@ -1,6 +1,6 @@
 # <p align="center">💫 About Me:</p>
  <p align="center">
-I’m an SQA & Full-stack Web developer. I am passionate about learning and sharing my knowledge with others as publicly as possible. I am strategic and goal-oriented, and I always work with an end goal. pride me on doing quality work and maintaining excellent communication.  I always think that patience, dedication, and new things learning mindset is the key to success
+I am desirous of working for the position of SQA Engineer. I want to build my career as an SQA Engineer. I am strategic and goal-oriented, and I always work with an end goal.
 </p>
 
 ## 🌐 Socials:
